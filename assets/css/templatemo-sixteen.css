@@ -54,12 +54,12 @@ ul.social-icons li a {
 }
 
 ul.social-icons li a:hover {
-	background-color: #8bc53f;
+	background-color: #950000;
 	color: #fff;
 }
 
 a.filled-button {
-	background-color: #8bc53f;
+	background-color: #950000;
 	color: #fff;
 	font-size: 14px;
 	text-transform: capitalize;
@@ -109,7 +109,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h4 {
-	color: #8bc53f;
+	color: #950000;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -125,7 +125,7 @@ a.filled-button:hover {
 
 #preloader {
   overflow: hidden;
-  background: #8bc53f;
+  background: #950000;
   left: 0;
   right: 0;
   top: 0;
@@ -238,7 +238,7 @@ header .navbar {
 .background-header .navbar-nav .nav-link.active,
 .background-header .navbar-nav .nav-link.show,
 .background-header .navbar-nav .show>.nav-link {
-	color: #8bc53f!important;
+	color: #950000!important;
 }
 .navbar .navbar-brand {
 	float: 	left;
@@ -257,7 +257,7 @@ header .navbar {
 }
 .navbar .navbar-brand h2 em {
 	font-style: normal;
-	color: #8bc53f;
+	color: #950000;
 }
 #navbarResponsive {
 	z-index: 999;
@@ -284,7 +284,7 @@ header .navbar {
 .navbar .navbar-nav .show>.nav-link {
 	color: #fff;
 	padding-bottom: 25px;
-	border-bottom: 3px solid #8bc53f;
+	border-bottom: 3px solid #950000;
 }
 .navbar .navbar-toggler-icon {
 	background-image: none;
@@ -301,7 +301,7 @@ header .navbar {
 }
 .navbar .navbar-toggler-icon:after {
 	content: '\f0c9';
-	color: #8bc53f;
+	color: #950000;
 	font-size: 18px;
 	line-height: 26px;
 	font-family: 'FontAwesome';
@@ -345,7 +345,7 @@ header .navbar {
 }
 
 .banner .text-content h4 {
-	color: #8bc53f;
+	color: #950000;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -405,7 +405,7 @@ header .navbar {
 	text-transform: uppercase;
 	font-size: 13px;
 	font-weight: 700;
-	color: #8bc53f;
+	color: #950000;
 }
 
 .product-item {
@@ -429,7 +429,7 @@ header .navbar {
 }
 .product-item .down-content h4 {
 	font-size: 17px;
-	color: #8bc53f;
+	color: #950000;
 	margin-bottom: 20px;
 }
 
@@ -450,7 +450,7 @@ header .navbar {
 }
 
 .product-item .down-content ul li i {
-	color: #8bc53f;
+	color: #950000;
 	font-size: 14px;
 }
 
@@ -459,7 +459,7 @@ header .navbar {
 	right: 30px;
 	bottom: 30px;
 	font-size: 13px;
-	color: #8bc53f;
+	color: #950000;
 	font-weight: 500;
 }
 
@@ -498,7 +498,7 @@ header .navbar {
 
 .best-features h4 {
 	font-size: 17px;
-	color: #8bc53f;
+	color: #950000;
 	margin-bottom: 20px;
 }
 
@@ -533,11 +533,11 @@ header .navbar {
 }
 
 .best-features ul.featured-list li a:hover {
-	color: #8bc53f;
+	color: #950000;
 }
 
 .best-features ul.featured-list li a:hover::before {
-	background-color: #8bc53f;
+	background-color: #950000;
 }
 
 .best-features .filled-button {
@@ -559,7 +559,7 @@ header .navbar {
 
 .call-to-action .inner-content h4 {
 	font-size: 17px;
-	color: #8bc53f;
+	color: #950000;
 	margin-bottom: 15px;
 }
 
@@ -596,7 +596,7 @@ footer .inner-content p {
 }
 
 footer .inner-content p a {
-	color: #8bc53f;
+	color: #950000;
 	margin-left: 3px;
 }
 
@@ -629,7 +629,7 @@ footer .inner-content p a {
 
 .products .filters ul li.active,
 .products .filters ul li:hover {
-  color: #8bc53f;
+  color: #950000;
 }
 
 .products ul.pages {
@@ -656,8 +656,8 @@ footer .inner-content p a {
 
 .products ul.pages li a:hover,
 .products ul.pages li.active a {
-	background-color: #8bc53f;
-	border-color: #8bc53f;
+	background-color: #950000;
+	border-color: #950000;
 	color: #fff;
 }
 
@@ -709,7 +709,7 @@ footer .inner-content p a {
 
 .team-member .thumb-container .hover-effect .hover-content ul.social-icons li a:hover {
 	background-color: #fff;
-	color: #8bc53f;
+	color: #950000;
 }
 
 .team-member:hover .hover-effect {
@@ -719,14 +719,14 @@ footer .inner-content p a {
 
 .team-member .down-content h4 {
 	font-size: 17px;
-	color: #8bc53f;
+	color: #950000;
 	margin-bottom: 8px;
 }
 
 .team-member .down-content span {
 	display: block;
 	font-size: 13px;
-	color: #8bc53f;
+	color: #950000;
 	font-weight: 500;
 	margin-bottom: 20px;
 }
@@ -760,7 +760,7 @@ footer .inner-content p a {
 	display: inline-block;
 	text-align: center;
 	line-height: 100px;
-	background-color: #8bc53f;
+	background-color: #950000;
 	color: #fff;
 	font-size: 32px;
 }
@@ -772,7 +772,7 @@ footer .inner-content p a {
 
 .services .service-item .down-content h4 {
 	font-size: 17px;
-	color: #8bc53f;
+	color: #950000;
 	margin-bottom: 20px;
 }
 
@@ -818,7 +818,7 @@ footer .inner-content p a {
 
 .find-us h4 {
 	font-size: 17px;
-	color: #8bc53f;
+	color: #950000;
 	margin-bottom: 20px;
 }
 
@@ -868,7 +868,7 @@ footer .inner-content p a {
 }
 
 .contact-form button.filled-button {
-	background-color: #8bc53f;
+	background-color: #950000;
 	color: #fff;
 	font-size: 14px;
 	text-transform: capitalize;
@@ -894,17 +894,17 @@ footer .inner-content p a {
 .accordion a {
 	cursor: pointer;
 	font-size: 17px;
-	color: #8bc53f!important;
+	color: #950000!important;
 	margin-bottom: 20px;
 	transition: all .3s;
 }
 
 .accordion a:hover {
-	color: #8bc53f!important;
+	color: #950000!important;
 }
 
 .accordion a.active {
-  color: #8bc53f!important;
+  color: #950000!important;
 }
 
 .accordion li .content {
@@ -1033,7 +1033,7 @@ footer .inner-content p a {
 	.navbar .navbar-nav .nav-link.active,
 	.navbar .navbar-nav .nav-link.show,
 	.navbar .navbar-nav .show>.nav-link {
-		color: #8bc53f!important;
+		color: #950000!important;
 		border-bottom: none!important;
 		padding-bottom: 15px;
 	}
